@@ -1,5 +1,5 @@
 # 3D-Scanned-Object-Library
-A collection of 3D scanned objects released under GPL 3.0 license.
+A collection of 3D scanned objects released under GPL 3.0 license. If you use these files to create something it has to be released under the same license. 
 
 Some scans better than other... some will be updated in the future... maybe. 
 
