@@ -42,3 +42,8 @@ Some scans better than other... some will be updated in the future... maybe.
 | <img src="Images/Wera_7510.png" alt="Images/Wera_7510.png" width="200px" /> | <a href="Wera/Wera_7510_Torque_driver_v1.stl" title="Wera/Wera_7510_Torque_driver_v1.stl">Wera 7510</a> | v1 | 2025-01-11 | Creality Raptor |
 | <img src="Images/Wera_8000_A.png" alt="Images/Wera_8000_A.png" width="200px" /> | <a href="Wera/Wera_8000_A_v1.stl" title="Wera/Wera_8000_A_v1.stl">Wera 8000 A</a> | v1 | 2025-01-11 | Creality Raptor |
 
+## Misc
+| Thumbnail | Description | Version | Date | Scanner |
+| :-------: | :---------- | :-----: | :---: | :-----|
+| <img src="Images/Steelseries_Arctic_Nova_Pro_Wireless_Basestationpng.png" alt="Images/Steelseries_Arctic_Nova_Pro_Wireless_Basestationpng.png" width="200px" /> | <a href="Misc/Steelseries_Arctic_Nova_Pro_Wireless_Basestation_v1.stl" title="Misc/Steelseries_Arctic_Nova_Pro_Wireless_Basestation_v1.stl">Steelseries<br/>Arctic Nova Pro<br/>Wireless Basestation</a> | v1 | 2025-01-12 | Creality Raptor |
+| <img src="Images/Amazon_basic_electric_screwdriver_v1.png" alt="Images/Amazon_basic_electric_screwdriver_v1.png" width="200px" /> | <a href="Misc/Amazon_Basic_Electric_Screwdriver_v1.stl" title="Misc/Amazon_Basic_Electric_Screwdriver_v1.stl">Amazon Basic Electric Screwdriver</a> | v1 | 2024-10-22 | 3DMaker Pro Moose |
